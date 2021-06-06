@@ -16,3 +16,6 @@ The model consists of 4 layers of with the Rectified Linear Unit (relu) with Reg
 
 # How to Run?
 Download the GTZAN music dataset available online and change the dataset loading path in respective files. Simple run the models and get test accuracies!
+
+
+![alt text](https://ibb.co/3cq2DSY)
